@@ -1,0 +1,9 @@
+{
+  "name": "Digital Companion for Field Drug Testing",
+  "description": "Validated mobile companion tool for colorimetric field drug-testing kits with reference-compensated colorimetric analysis and tamper-evident SHA-256 records.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
